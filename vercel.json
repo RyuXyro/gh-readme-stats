@@ -11,7 +11,7 @@
       "destination": "https://github.com/RyuXyro/gh-readme-stats"
     },
     {
-      "source": "/?",
+      "source": "/a",
       "destination": "https://gh-readme-stats-theta.vercel.app/api?username=ryuxyro&show_icons=true&theme=tokyonight&hide_border=true"
     }
   ]
